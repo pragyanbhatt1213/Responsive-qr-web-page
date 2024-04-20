@@ -1,1 +1,0 @@
-# Responsive-qr-web-page
